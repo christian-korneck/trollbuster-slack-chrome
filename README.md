@@ -15,11 +15,15 @@ However, messages from blocked users still appear in channels, replaced with `Th
 
 
 ## good to know
-- you might still see messages from other users at-ing the blocked user (`@hidden user: <something>`)
+- you might still see messages from other users at-ing the hidden user (`@hidden user: <something>`) and reactions from the hidden user
 - you can´t see or access threads below messages from the blocked user. (Collateral damage, but I like it that way).
 
-
 ## installation
+
+Install [from Chrome Store](https://chromewebstore.google.com/detail/trollbuster-slack/lminpichifdmajmaflcdcgaalabilcgd)
+
+
+## or: manual installation
 
 - copy folder `trollbuster-slack-chrome` to a local folder
 - in chrome go to `chrome://extensions`, enable developer mode
